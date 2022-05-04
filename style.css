@@ -5,11 +5,12 @@
 
 #modal {
 	display: none;
-	background: rgba(0.3,0.3,0.3,0.5);
+	background: rgba(0.3,0.3,0.3,0.8);
 	width: 100vw;
 	height: 100vh;
 	position: fixed;
 	z-index: 1;
 	top: 0;
 	left: 0;
+	color: white;
 }
